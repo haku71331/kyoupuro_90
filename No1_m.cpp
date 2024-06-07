@@ -1,4 +1,4 @@
-//問題→https://x.com/e869120/status/1376665578513989633
+//No1
 
 #include <iostream>
 #include <vector>
